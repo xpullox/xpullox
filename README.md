@@ -22,7 +22,3 @@ My expertise spans both the front-end and back-end, allowing me to create seamle
 
 I am dedicated to staying updated with the latest industry trends and technologies, ensuring that the solutions I develop are aligned with best practices and industry standards.
 My goal is to deliver not just functional applications but exceptional user experiences.
-
-
-
-[![xpullox's github stats](https://github-readme-stats.vercel.app/api?username=xpullox&show_icons=true&theme=radical&count_private=true)](https://github.com/xpullox/)
